@@ -9,7 +9,7 @@ About me:
 Educational background
 
 - Undergraduate courses in Data Processing Technology.
-- Graduate courses in Design and Development of Object-Based Systems Internet Environment.
+- Graduate courses in Design and Development of Object-Based Systems for Internet Environment.
 - Master’s degree in Computer Science.
 
 Areas of knowledge and interest: 
