@@ -14,6 +14,7 @@ Educational background
 
 Areas of knowledge and interest: 
 - Computer Programming; 
+- Algorithms and Data Structures
 - Software Engineering; 
 - Software Architecture; 
 - Database;
@@ -21,5 +22,5 @@ Areas of knowledge and interest:
 - Machine Learning;
 - Digital Image Processing;
 - Computer Vision; 
-<!--- Classifiers and Multiple Classifier System;
-- Digital Games.-->
+- Classifiers and Multiple Classifier System;
+- Computer Games Programming.
