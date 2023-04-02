@@ -23,4 +23,4 @@ Areas of knowledge and interest:
 - Digital Image Processing;
 - Computer Vision; 
 - Classifiers and Multiple Classifier System;
-- Computer Games Programming.
+- Digital Games Development.
