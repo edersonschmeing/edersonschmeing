@@ -18,9 +18,9 @@ Areas of knowledge and interest:
 - Software Engineering; 
 - Software Architecture; 
 - Database;
+- Artificial Intelligence;
 - Pattern Recognition;
 - Machine Learning;
 - Digital Image Processing;
 - Computer Vision; 
-- Classifiers and Multiple Classifier System;
-- Digital Games Development.
+- Classifiers and Multiple Classifier System.
