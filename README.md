@@ -18,6 +18,7 @@ Areas of knowledge and interest:
 - Software Engineering; 
 - Software Architecture; 
 - Database;
+- Web Programming;
 - Artificial Intelligence;
 - Pattern Recognition;
 - Machine Learning;
