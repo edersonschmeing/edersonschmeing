@@ -24,4 +24,5 @@ Areas of knowledge and interest:
 - Machine Learning;
 - Digital Image Processing;
 - Computer Vision; 
-- Classifiers and Multiple Classifier System.
+- Classifiers and Multiple Classifier System;
+- Complexity Measures.
