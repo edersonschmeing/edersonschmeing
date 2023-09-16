@@ -22,6 +22,7 @@ Areas of knowledge and interest:
 - Artificial Intelligence;
 - Pattern Recognition;
 - Machine Learning;
+- Data Science
 - Digital Image Processing;
 - Computer Vision; 
 - Classifiers and Multiple Classifier System;
