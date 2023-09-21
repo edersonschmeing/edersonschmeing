@@ -20,9 +20,10 @@ Areas of knowledge and interest:
 - Database;
 - Web Programming;
 - Digital Image Processing;
+- Statistics;
 - Artificial Intelligence;
-- Big Data
-- Data Science
+- Big Data;
+- Data Science;
 - Pattern Recognition;
 - Machine Learning;
 - Computer Vision;
