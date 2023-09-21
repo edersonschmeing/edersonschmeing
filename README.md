@@ -19,11 +19,12 @@ Areas of knowledge and interest:
 - Software Architecture; 
 - Database;
 - Web Programming;
+- Digital Image Processing;
 - Artificial Intelligence;
+- Big Data
+- Data Science
 - Pattern Recognition;
 - Machine Learning;
-- Data Science
-- Digital Image Processing;
-- Computer Vision; 
+- Computer Vision;
 - Classifiers and Multiple Classifier System;
 - Complexity Measures.
